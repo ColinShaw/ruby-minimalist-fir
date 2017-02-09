@@ -1,7 +1,6 @@
 # A Minimalist Ruby FIR Implementation
 
-This is a tiny FIR implementation in Ruby.  
-Not performant, just fun.
+This is a tiny FIR implementation in Ruby.  Not performant, just fun.
 
 
 ## Overview   
@@ -21,4 +20,4 @@ two whole line!
 
 ## Examples   
 
-Please see example.rb
+Please see example.rb for examples.
